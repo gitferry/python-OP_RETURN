@@ -1,0 +1,8 @@
+[test]
+send_address=mu6sokKBzH8oboY1io7AYfM8Le5AaxLr1y
+send_amount=0.00001
+op1_len=70
+op2_len=58
+fee=0.0001
+exp_n=10
+interval=20
