@@ -26,6 +26,7 @@
 from curses import meta
 import subprocess, json, time, random, os.path, binascii, struct, string, re, hashlib
 from pprint import pprint
+from unittest import result
 
 
 # Python 2-3 compatibility logic
@@ -101,7 +102,7 @@ def OP_RETURN_create_data_transaction(fee, metadata, testnet):
 	result = float(unspent_inputs[0]['amount']) - fee
 	
 	outputs= {
-		change_address: float('%.4f' % result),
+		change_address: f'{result:f}',
 		"data": OP_RETURN_bin_to_hex(metadata),
 	}
 

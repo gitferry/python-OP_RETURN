@@ -41,7 +41,8 @@ def main():
 	op2_bytes = str.encode('BBNT') + os.urandom(int(configParser[NETWORK]['op2_len']))
 	op_return_1 = OP_RETURN_hex_to_bin(op1_bytes.hex())
 	op_return_2 = OP_RETURN_hex_to_bin(op2_bytes.hex())
-	fee = configParser[NETWORK]['fee']
+	fastfee = configParser[NETWORK]['fastfee']
+	slowfee = configParser[NETWORK]['slowfee']
 	interval = configParser[NETWORK]['interval']
 	exp_n = configParser[NETWORK]['exp_n']
 
@@ -53,18 +54,29 @@ def main():
 	filename = newResultFile()
 
 	for i in range(int(exp_n)):
-		print("Sending checkpoint " + str(i+1) + ":")
-		tx1=OP_RETURN_send(send_address, float(send_amount), op_return_1, float(fee), testnet)
-		if 'error' in tx1:
-			print('Error: '+tx1['error'])
+		print("Sending checkpoint " + str(i+1) + " with fastfee:")
+		fasttx1=OP_RETURN_send(send_address, float(send_amount), op_return_1, float(fastfee), testnet)
+		if 'error' in fasttx1:
+			print('Error: '+fasttx1['error'])
 			return
 
-		tx2=OP_RETURN_send(send_address, float(send_amount), op_return_2, float(fee), testnet)
-		if 'error' in tx2:
-			print('Error: '+tx2['error'])
+		fasttx2=OP_RETURN_send(send_address, float(send_amount), op_return_2, float(fastfee), testnet)
+		if 'error' in fasttx2:
+			print('Error: '+fasttx2['error'])
 			return
 
-		printAndRecordRes(filename, i+1, tx1, tx2, float(fee))
+		print("Sending checkpoint " + str(i+1) + " with slowfee:")
+		slowtx1=OP_RETURN_send(send_address, float(send_amount), op_return_1, float(slowfee), testnet)
+		if 'error' in slowtx1:
+			print('Error: '+slowtx1['error'])
+			return
+
+		slowtx2=OP_RETURN_send(send_address, float(send_amount), op_return_2, float(slowfee), testnet)
+		if 'error' in slowtx2:
+			print('Error: '+slowtx2['error'])
+			return
+
+		printAndRecordRes(filename, i+1, fasttx1, fasttx2, slowtx1, slowtx2)
 		print("Countdown to send the next checkpoint:")
 		for i in range(int(interval),0,-1):
 			print(f"{i}", end="\r", flush=True)
@@ -84,20 +96,24 @@ def newResultFile():
 	return filename
 	
 
-def printAndRecordRes(filename, index, tx1, tx2, fee):
-	printRes(tx1)
-	printRes(tx2)
-
-	timestamp = datetime.now().strftime("%H:%M:%S")
+def printAndRecordRes(filename, index, fasttx1, fasttx2, slowtx1, slowtx2):
+	printRes(fasttx1)
+	printRes(fasttx2)
+	printRes(slowtx1)
+	printRes(slowtx2)
 
 	with open(filename, "r+") as resFile:
 		result = json.load(resFile)
 		new_ckpt = {
 			'index': index,
-			'timestamp': timestamp,
-			'tx1_id': tx1,
-			'tx2_id': tx2,
-			'fee': fee,
+			'fastfee': {
+				'tx1': fasttx1,
+				'tx2': fasttx2,
+			},
+			'slowfee': {
+				'tx1': slowtx1,
+				'tx2': slowtx2,
+			}
 		}
 		result['checkpoints'].append(new_ckpt)
 		resFile.seek(0)

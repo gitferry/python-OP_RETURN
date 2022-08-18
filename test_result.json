@@ -1,0 +1,43 @@
+{
+    "checkpoints": [
+        {
+            "index": 1,
+            "timestamp": "00:43:25",
+            "tx1_id": {
+                "txid": "be9fb65f544712f4449bfc37eb876ba9773e1939770de2765a4a58f3e63c342e"
+            },
+            "tx2_id": {
+                "txid": "88fb23f0c784c8ae6701a22592ce67505f262d1915f0471ec814c63315dcd63c"
+            }
+        },
+        {
+            "timestamp": "00:43:46",
+            "tx1_id": {
+                "txid": "6aa9157d44c331da321d9e63dabeade5f7739ba4794238f3d3cff175516851b0"
+            },
+            "tx2_id": {
+                "txid": "0a61aab87fbbae5874b28d79d7abca8128d8dc3f61fdd595fb89fe25ad2c04e1"
+            }
+        },
+        {
+            "index": 3,
+            "timestamp": "00:44:07",
+            "tx1_id": {
+                "txid": "942181062bda394ce70fa4c902c74d68966ff771e6e5742cdf722f0425bb785a"
+            },
+            "tx2_id": {
+                "txid": "cb6a8bb5912a17c0493e7dd817e8fef4c18dbec741bb1efd83aaf3adcd2e766a"
+            }
+        },
+        {
+            "index": 4,
+            "timestamp": "00:44:27",
+            "tx1_id": {
+                "txid": "b79ba6aa7da1d441e7b3eb4ea03ab9075b09da80f89d53c5296e6a060a883040"
+            },
+            "tx2_id": {
+                "txid": "355a76c0f64d4984c0e6566f96482672d5550f1925616954c7b070eef0044b77"
+            }
+        }
+    ]
+}
