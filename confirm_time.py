@@ -13,7 +13,7 @@ def main():
     with open(txid_file, "r+") as txidFile:
         txid_json = json.load(txidFile)
         checkpoints=txid_json['checkpoints']
-        n = 5
+        n = 13
         for i in range(n):
             fastfee=checkpoints[i]['fastfee']
             fasttx1=fastfee['tx1']
@@ -52,13 +52,13 @@ def main():
     
 def get_measurement(txid):
     tx_detail=get_transaction_details(txid)
-    sleep(1)
+    sleep(0.1)
     block_height=int(tx_detail['block_height'])
-    curr_block=get_block_overview(str(block_height))
-    sleep(1)
-    confirm_duration=curr_block['received_time'] - tx_detail['received']
+    curr_block=get_block_overview(str(block_height-2))
+    sleep(0.1)
+    confirm_duration=tx_detail['received'] - curr_block['received_time']
     six_deep_block=get_block_overview(str(block_height+6))
-    sleep(1)
+    sleep(0.1)
     twenty_deep_block=get_block_overview(str(block_height+20))
     six_deep_duration=six_deep_block['received_time']-tx_detail['confirmed']
     twenty_deep_duration=twenty_deep_block['received_time']-tx_detail['confirmed']

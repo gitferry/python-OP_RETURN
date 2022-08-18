@@ -4,55 +4,85 @@
             "index": 1,
             "fastfee": {
                 "tx1": "52f4e8c68b7846db454362b4460f11c242e082ad7afbc0b61361404883c0781c",
-                "tx2": "adaafcdc7951bce5dadeffb74226c7310dd41f0596da6920dabe7f7c841b9797"
+                "tx2": "adaafcdc7951bce5dadeffb74226c7310dd41f0596da6920dabe7f7c841b9797",
+                "confirm_duration": 8.285216666666667,
+                "six_deep_duration": 48.999,
+                "twenty_deep_duration": 180.50353333333334
             },
             "slowfee": {
                 "tx1": "2571ed0687d1619f2cdd2c790e8de6c9d8cf8c54be751498d27ed9e07c001e97",
-                "tx2": "b9b19b754ed3c0d016a6a3624894471cf07c9643c8a6248f99a40aa84491c2d4"
+                "tx2": "b9b19b754ed3c0d016a6a3624894471cf07c9643c8a6248f99a40aa84491c2d4",
+                "confirm_duration": 0.13776666666666668,
+                "six_deep_duration": 46.22396666666667,
+                "twenty_deep_duration": 185.27083333333334
             }
         },
         {
             "index": 2,
             "fastfee": {
                 "tx1": "68fe2d1668f91586a357732acc345b3a6655351dcf2e56c9837da8c979fcb111",
-                "tx2": "9445dc89dd728924d4eba102b010dae149fd5b54e49c78b6d7290e424e45d7d8"
+                "tx2": "9445dc89dd728924d4eba102b010dae149fd5b54e49c78b6d7290e424e45d7d8",
+                "confirm_duration": 12.326266666666667,
+                "six_deep_duration": 31.5011,
+                "twenty_deep_duration": 185.72556666666665
             },
             "slowfee": {
                 "tx1": "ef5c406389ea471e20da35340c6bf49458a46c34805d33dde1f8153d15c1771c",
-                "tx2": "9243aa6018d813a043f57bad339fd782369764ce8db181ea52c85d63d0ae159d"
+                "tx2": "9243aa6018d813a043f57bad339fd782369764ce8db181ea52c85d63d0ae159d",
+                "confirm_duration": 24.314733333333333,
+                "six_deep_duration": 31.6188,
+                "twenty_deep_duration": 185.52693333333335
             }
         },
         {
             "index": 3,
             "fastfee": {
                 "tx1": "d4cf251baba63f906bd571d44857b3ab1a5a006247609279f49e8b77c3f1c3cb",
-                "tx2": "e505c094dc6a135d7f09cc5f0d79884bd48710f4411fe0d988cf7db91fe0a1a0"
+                "tx2": "e505c094dc6a135d7f09cc5f0d79884bd48710f4411fe0d988cf7db91fe0a1a0",
+                "confirm_duration": 3.2576666666666667,
+                "six_deep_duration": 34.24128333333333,
+                "twenty_deep_duration": 183.23093333333333
             },
             "slowfee": {
                 "tx1": "7dc0d8b1251d5387cdd07c6b061fb1e74916031308c80df57065333d55d00b2d",
-                "tx2": "3c36ae8384468f692b7ca49b18d8570f46e4087ad89c19daa6dc582ac1608179"
+                "tx2": "3c36ae8384468f692b7ca49b18d8570f46e4087ad89c19daa6dc582ac1608179",
+                "confirm_duration": 0.599,
+                "six_deep_duration": 31.6188,
+                "twenty_deep_duration": 185.52693333333335
             }
         },
         {
             "index": 4,
             "fastfee": {
                 "tx1": "2f464b248935da00072f43d6b35940ded0a102304b5dabba0c6bd734053f3263",
-                "tx2": "32ab7cd8034637e5c4bd55488ca9de8f63e3fdcbcd1572aa167c1ad0da8c7ef2"
+                "tx2": "32ab7cd8034637e5c4bd55488ca9de8f63e3fdcbcd1572aa167c1ad0da8c7ef2",
+                "confirm_duration": 0.9766666666666667,
+                "six_deep_duration": 41.166533333333334,
+                "twenty_deep_duration": 200.2451
             },
             "slowfee": {
                 "tx1": "ff793204bad21643611cb10cc0e746480417aa0d250c3378bc04dd41aa3da7d2",
-                "tx2": "2883f29fdaa9a1963b994d9e09487e99aea620a9b3a1bd7b05c59e413787d098"
+                "tx2": "2883f29fdaa9a1963b994d9e09487e99aea620a9b3a1bd7b05c59e413787d098",
+                "confirm_duration": 14.454783333333333,
+                "six_deep_duration": 38.127233333333336,
+                "twenty_deep_duration": 191.06953333333334
             }
         },
         {
             "index": 5,
             "fastfee": {
                 "tx1": "7ff44a1dcb54d24c693bed8a5b07f1d9903f6076dd27219f851b3e5b98cfa3ff",
-                "tx2": "4d716cf5355ee72973ca54cb4c3e27cfa178a29293b6de135d6da9f6c1b779d8"
+                "tx2": "4d716cf5355ee72973ca54cb4c3e27cfa178a29293b6de135d6da9f6c1b779d8",
+                "confirm_duration": 4.858483333333334,
+                "six_deep_duration": 73.75671666666668,
+                "twenty_deep_duration": 189.6657
             },
             "slowfee": {
                 "tx1": "8d798fbb911f2bdcaebc8dbd751beeb708a799fcfdfdc62d238159db5c937ff7",
-                "tx2": "6c8fe7741247a342adecb635aab6836beb0be6b02e691776ad3a4fb73dff3a7c"
+                "tx2": "6c8fe7741247a342adecb635aab6836beb0be6b02e691776ad3a4fb73dff3a7c",
+                "confirm_duration": 3.7578666666666667,
+                "six_deep_duration": 73.75671666666668,
+                "twenty_deep_duration": 189.6657
             }
         },
         {
@@ -152,116 +182,6 @@
             "slowfee": {
                 "tx1": "18c4670fa66b44d1376650779418acc4b74a819665aca693ed49b98fb611cf95",
                 "tx2": "e1db490d485edec28f764efea13ec16206006eec9401ee44109c4ef3f62cc8d7"
-            }
-        },
-        {
-            "index": 15,
-            "fastfee": {
-                "tx1": "46a40f4636056270b5d52632451ff3b74b5570ae32e3ada612affb1ab8ff4074",
-                "tx2": "1af6ff000af8a0faa74b1cd0eeca291dfdd45788436e5845981b6a90deaf3994"
-            },
-            "slowfee": {
-                "tx1": "955b26e5737d075246f1fd5df2f7ef52a9c4a59e59130f97a52578478d397135",
-                "tx2": "5e66ab376b0b26cd1b62f25afcf5af1461e1f2d673c4d174fd00eb4d19570aaa"
-            }
-        },
-        {
-            "index": 16,
-            "fastfee": {
-                "tx1": "ebdc9c864e1559b889dafa29d677256c2aaf233a2cc6619f372740d8e45018d6",
-                "tx2": "89a98372fa66581f89c2227317bbe3bc1484f7ed52e7898c754ad02e3a1f04b7"
-            },
-            "slowfee": {
-                "tx1": "49e99a484176f7f033f9880d8d939050ef0dbbc3ba90cf1fc05262825226d33a",
-                "tx2": "91ecc21efd4c841f98d84b0d20d9adb2a85eba79bbc6114effc067ce638719b0"
-            }
-        },
-        {
-            "index": 17,
-            "fastfee": {
-                "tx1": "d052810d665b4b97ec7473c4c6cb3339b290f8d5b27be0a6546ec3ca74d93be2",
-                "tx2": "2e3d1d52785a6d93f9f7419b4d5095519137a75a7242bc0e6087dc7c963bd434"
-            },
-            "slowfee": {
-                "tx1": "074dd1541046b25c7b05a5b1eb5f68ec92689f0a10b0237f9c146142cac71974",
-                "tx2": "dc01ac0c52c7a625a8562bc7a21478c0a1f85d01663a50e60f72f9ecdd9e411a"
-            }
-        },
-        {
-            "index": 18,
-            "fastfee": {
-                "tx1": "23e0d87ca91b4a285a1eb3ad2fd2e97ff88f5eb7a06be1fd25091424ddeae489",
-                "tx2": "cda130cf8a765f6586e9911d626e6f3d7a646f9c60f4f5208cf76efd4ee486bf"
-            },
-            "slowfee": {
-                "tx1": "4f51a56463b4850d5dd7a4175580676cc12195298770ecf9937eaa2e9bff1136",
-                "tx2": "dd0a54698c54ad2591384b1feec230d3cd449b7811357cc238c729c567398e27"
-            }
-        },
-        {
-            "index": 19,
-            "fastfee": {
-                "tx1": "e519cf833a15997cf90a2cd505e9f08d511ab7c3c2680e5770a2d85bb6a6fda8",
-                "tx2": "ebdc0b8a9b9e9c335b2e12b4c54aea586b514a7edd7526201c6b9cce92d69b2a"
-            },
-            "slowfee": {
-                "tx1": "9fbd5e62291cc0ddc035f85ae64700a3fe74f2aacf5ae9ba34e020338e4235be",
-                "tx2": "23b66d21c20368301f0b19b4ecbe4b8c3cc22d08bd93e6f2b08d8fc580bd2dba"
-            }
-        },
-        {
-            "index": 20,
-            "fastfee": {
-                "tx1": "11885e60a04226a709fabb0927273e741ba0e0647522abb326b97ca05f9ad1c6",
-                "tx2": "85f721cdf8d5629976bd903b3313246a930e4763a9e91806187fadf9802bae1c"
-            },
-            "slowfee": {
-                "tx1": "75190b9cd6450818580441431ff6119446558c9fa88e65e870195c9a0505d165",
-                "tx2": "ba859cf54259d933378e60e115dc59afca0754bff18a2f73e934e1ac6688b578"
-            }
-        },
-        {
-            "index": 21,
-            "fastfee": {
-                "tx1": "975ff6f0c0ddeca48bc4097d818035b79e5a4b9c62ef520e6cf07356321c6257",
-                "tx2": "6abdfae6b66407e08dd7feac16677c0109cfcf0811df3164d670dc6126faa7b6"
-            },
-            "slowfee": {
-                "tx1": "8fab0a2e2048d380f6b210c3ef8e6c88194a9848b9910ada09eac2bf4663e753",
-                "tx2": "6f7e873e906b13db1284d02ca1c1032983b2fec28a818dd1d368f4fa242842ef"
-            }
-        },
-        {
-            "index": 22,
-            "fastfee": {
-                "tx1": "ff0ff230008ec6b7140965ef5d83accca6822f5b168ee3b1655b57eefc6966ee",
-                "tx2": "50c7677c827443db98b3170d77c68853e25a13aa08fcbe10504942f4146a213a"
-            },
-            "slowfee": {
-                "tx1": "ff418bc8cb5eebee5c0e0495f6179ea9f71d66ed57f6cca2580a2a130efb17a5",
-                "tx2": "cd68c86d6fd3f9356dd50a60d44da46a15bdabd1f970c118d9ad7a7870e8fac8"
-            }
-        },
-        {
-            "index": 23,
-            "fastfee": {
-                "tx1": "54d0fc1bb3a3f75cc543d5957d99246f439403da28600325863a68d048a4fa9b",
-                "tx2": "982e8d27a0261a08725d1eecad2b51f1ba62037448fd6c9053c2d2a0e5cabc73"
-            },
-            "slowfee": {
-                "tx1": "5f3f137e4f71307a85db8a3d68f62d0a74b3fec5618b3359e79fd09fb350c04e",
-                "tx2": "cb375f2b394717ec3402d46a768aadb86d1a2eb38a1e2d0260fd697960a5b381"
-            }
-        },
-        {
-            "index": 24,
-            "fastfee": {
-                "tx1": "d594127a3320ec1ec12cadb3a38d74fc7540459af21849355e9335880b7ecf8d",
-                "tx2": "9ec3babd43dbe63f457f1a1a262af6dbf8a81d6ac030edc4cd963b65c503c9c5"
-            },
-            "slowfee": {
-                "tx1": "46dab1bbcb77673f138dd9b93d7034ef8f83e9b49f6e27b72e96b46082411eab",
-                "tx2": "5060cc525d247b1440c44ea570f1be21f799ace38765b251ca142a2cb08f1b5f"
             }
         }
     ]
