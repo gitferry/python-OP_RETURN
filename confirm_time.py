@@ -51,7 +51,7 @@ def get_measurement(txid):
     six_deep_duration=six_deep_block['received_time']-tx_detail['confirmed']
     twenty_deep_duration=twenty_deep_block['received_time']-tx_detail['confirmed']
 
-    return confirm_duration, six_deep_duration.total_seconds() / 60, twenty_deep_duration.total_seconds() / 60
+    return confirm_duration, six_deep_duration.total_seconds() / 60 + confirm_duration, twenty_deep_duration.total_seconds() / 60 + confirm_duration
 
 
 if __name__ == "__main__":

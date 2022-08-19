@@ -275,35 +275,53 @@
             "time": 7,
             "fastfee": {
                 "tx1": "8e63ce16759d7ef3f9701d74c1e6a42a16279663c75835bc85d7d0be444795f2",
-                "tx2": "b62488377b0384105f667ba4ecb3c71d8345e9f2d52a060a55e94519f0126c03"
+                "tx2": "b62488377b0384105f667ba4ecb3c71d8345e9f2d52a060a55e94519f0126c03",
+                "confirm_duration": 7,
+                "six_deep_duration": 101.97125,
+                "twenty_deep_duration": 215.8970666666667
             },
             "slowfee": {
                 "tx1": "b4cc9e0603d62c6f79f2fd2a399b36693a137f4b4934b191ee896502649e067f",
-                "tx2": "45240feabc78dd4043f01327f7486b7822531464a3414e0d3ad4884b9ba90fb8"
+                "tx2": "45240feabc78dd4043f01327f7486b7822531464a3414e0d3ad4884b9ba90fb8",
+                "confirm_duration": 7,
+                "six_deep_duration": 101.97125,
+                "twenty_deep_duration": 215.8970666666667
             }
         },
-        {
+        {???
             "index": 31,
             "time": 8,
             "fastfee": {
                 "tx1": "4e9b5f0409722e7a7d90580f858f4567bc04111ab9a32b50dfec3f0c139b07e1",
-                "tx2": "af1dc2f876c667a9d6a49bc74923546e21663397c15605457b324d43959e69d0"
+                "tx2": "af1dc2f876c667a9d6a49bc74923546e21663397c15605457b324d43959e69d0",
+                "confirm_duration": 17,
+                "six_deep_duration": 67.3919,
+                "twenty_deep_duration": 187.84775
             },
             "slowfee": {
                 "tx1": "02f99baeb37ba26fffa5d34481e1493008206507b00217cb7c911e66d3572520",
-                "tx2": "85e47a143c2d77ec4479b0f414fe0df98ff0e2e0fa21b1a3d642152b9ddcdcb4"
+                "tx2": "85e47a143c2d77ec4479b0f414fe0df98ff0e2e0fa21b1a3d642152b9ddcdcb4",
+                "confirm_duration": 49,
+                "six_deep_duration": 48.92346666666666,
+                "twenty_deep_duration": 177.6980333333333
             }
         },
-        {
+        {???
             "index": 32,
             "time": 9,
             "fastfee": {
                 "tx1": "876d9a0f5c0975c40b33be9fb014e5cc074a6026b013abb4d09903d87f3e7a89",
-                "tx2": "626848afc8c2339229341618bd38cf96a89535eb758f32de05c4644b23ef23ab"
+                "tx2": "626848afc8c2339229341618bd38cf96a89535eb758f32de05c4644b23ef23ab",
+                "confirm_duration": 1,
+                "six_deep_duration": 56.71783333333334,
+                "twenty_deep_duration": 173.24938333333333
             },
             "slowfee": {
                 "tx1": "6501ca5519a1f2518994539fc10b54d7b6cd132e34f5f32130da54a4774323fb",
-                "tx2": "ff1efc2f8d4604f79afa20dc0518b6a5564828e5b3dd32cd26d8b73d7ee9b521"
+                "tx2": "ff1efc2f8d4604f79afa20dc0518b6a5564828e5b3dd32cd26d8b73d7ee9b521",
+                "confirm_duration": 22,
+                "six_deep_duration": 36.62396666666667,
+                "twenty_deep_duration": 155.00596666666667
             }
         },
         {
@@ -311,11 +329,71 @@
             "time": 10,
             "fastfee": {
                 "tx1": "08dcf844be57fb0b283cafd4e758588b96dfb45f6b08506b5b3cda0aca7926db",
-                "tx2": "facf85544e0cbad27439fb7b4b0b64e7f7d8784a817410882a541a53daa140b4"
+                "tx2": "facf85544e0cbad27439fb7b4b0b64e7f7d8784a817410882a541a53daa140b4",
+                "confirm_duration": 6,
+                "six_deep_duration": 55.51238333333333,
+                "twenty_deep_duration": 143.89213333333333
             },
             "slowfee": {
                 "tx1": "b159ba80ca48dc5066e3545d35402b727bc617190cac12f08dada65b84571125",
-                "tx2": "d9c9df874e0608686826f225fad7b3350edbf2acb6ea774589f3062803726cd1"
+                "tx2": "d9c9df874e0608686826f225fad7b3350edbf2acb6ea774589f3062803726cd1",
+                "confirm_duration": 6,
+                "six_deep_duration": 55.51238333333333,
+                "twenty_deep_duration": 143.89213333333333
+            }
+        },
+        {
+            "index": 34,
+            "time": 11,
+            "fastfee": {
+                "tx1": "4f34df8225822691b1ba705cfd7fa8dc967b2e2bdfb0eb6a7af03310ca392ad3",
+                "tx2": "56040cfefce459e8671fd71d02d50dd2805dc10bc33399bb59fb88598d4fb0a9",
+                "confirm_duration": 14,
+                "six_deep_duration": 42.67263333333334,
+                "twenty_deep_duration": 130.12773333333334
+            },
+            "slowfee": {
+                "tx1": "c217eee0c87b3ba4a11575b54d842317e0984c309d5eea0aaf952aa0a8f019b7",
+                "tx2": "5c0a97b97c417bf7fbd4a83dd58e1cd9d0a3181b4624c1806e69df0bbe859970",
+                "confirm_duration": 14,
+                "six_deep_duration": 42.67263333333334,
+                "twenty_deep_duration": 130.12773333333334
+            }
+        },
+        {
+            "index": 35,
+            "time": 12,
+            "fastfee": {
+                "tx1": "a3f948df614cb0fb15d5a786a2456f2f5c184279984282c4e26c67252bbdcf84",
+                "tx2": "169faaf1a11e8de4eaab132cdf0ad8fb0cae3a68ab32b1e921e8aee43031fd9a",
+                "confirm_duration": 6,
+                "six_deep_duration": 30.5617,
+                "twenty_deep_duration": 138.86599999999999
+            },
+            "slowfee": {
+                "tx1": "d07e0bd30bad18b27e217844f46ad85d751ef9690281b0b314478802267ebdd8",
+                "tx2": "7eb7243229f8410217ed5e40540d3ac98a3c1138158a087b079b3ae00d24f43a",
+                "confirm_duration": 6,
+                "six_deep_duration": 30.5617,
+                "twenty_deep_duration": 138.86599999999999
+            }
+        },
+        {
+            "index": 36,
+            "time": 13,
+            "fastfee": {
+                "tx1": "e6abadfb56fdc8bcb24c49581b0972ae0c1499626f5b1323a7478cdeff1a4aa3",
+                "tx2": "4d6df8006e9c3564b3fac2de114a5be188d4da9a76b4cb835a57c5030b3cdb8d",
+                "confirm_duration": 8,
+                "six_deep_duration": 52.060833333333335,
+                "twenty_deep_duration": 171.69253333333333
+            },
+            "slowfee": {
+                "tx1": "6636fc8f4d86c81b811a56a86e7e027cce10ced63e5f5f9c93bdc1aabdef8b9c",
+                "tx2": "f3f989a3bae8624d447a0e49276ea01aef3d8d89e928959bd6f3c76b6c80d9ba",
+                "confirm_duration": 8,
+                "six_deep_duration": 52.060833333333335,
+                "twenty_deep_duration": 170.06928333333332
             }
         }
     ]
