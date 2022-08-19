@@ -275,6 +275,18 @@
                 "tx1": "fad441caf7fccfb02f665a2fd98f2177187a6f4dbbad5e584d7c4ca3b87177ba",
                 "tx2": "79f34f26434c7f8ebdd8ffbf387c6086da741230ade72d3bd87e4a5a60ddd028"
             }
+        },
+        {
+            "index": 38,
+            "time": 15,
+            "fastfee": {
+                "tx1": "9c5a8194daf1a53a0fda5bd4dc99aaf254f1e388f0a46a13bec716a8a86cfbeb",
+                "tx2": "f83be1f90f779e1cadbfe01414e2d8e3a852c4f917b766bf89575aa91ea3a788"
+            },
+            "slowfee": {
+                "tx1": "d516294c2149ac6e72fccd404c31b0c0a369718c05aba155751cbf11024c2349",
+                "tx2": "450a8d668e8d6b43628187a51c7179c5d7701a2c9298074617af8cb9d5320600"
+            }
         }
     ]
 }
