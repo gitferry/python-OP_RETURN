@@ -2,10 +2,6 @@ import json, datetime
 from time import sleep
 from blockcypher import get_transaction_details
 from blockcypher import get_block_overview
-from blockcypher import get_token_info
-
-token="3fad7e8a832e474097ad43e68cd2e73d"
-print(get_token_info(token))
 
 def main():
     txid_file = "mainnet_checkpoints.json"
@@ -48,12 +44,9 @@ def main():
     
 def get_measurement(txid):
     tx_detail=get_transaction_details(txid)
-    sleep(1)
     block_height=int(tx_detail['block_height'])
-    sleep(1)
     confirm_duration=tx_detail['confirmed'].minute
     six_deep_block=get_block_overview(str(block_height+6))
-    sleep(1)
     twenty_deep_block=get_block_overview(str(block_height+20))
     six_deep_duration=six_deep_block['received_time']-tx_detail['confirmed']
     twenty_deep_duration=twenty_deep_block['received_time']-tx_detail['confirmed']
