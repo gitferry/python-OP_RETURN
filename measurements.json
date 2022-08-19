@@ -7,15 +7,15 @@
                 "tx1": "68fe2d1668f91586a357732acc345b3a6655351dcf2e56c9837da8c979fcb111",
                 "tx2": "9445dc89dd728924d4eba102b010dae149fd5b54e49c78b6d7290e424e45d7d8",
                 "confirm_duration": 11,
-                "six_deep_duration": 31.5011,
-                "twenty_deep_duration": 185.72556666666665
+                "six_deep_duration": 42.5011,
+                "twenty_deep_duration": 196.72556666666665
             },
             "slowfee": {
                 "tx1": "ef5c406389ea471e20da35340c6bf49458a46c34805d33dde1f8153d15c1771c",
                 "tx2": "9243aa6018d813a043f57bad339fd782369764ce8db181ea52c85d63d0ae159d",
                 "confirm_duration": 27,
-                "six_deep_duration": 31.6188,
-                "twenty_deep_duration": 185.52693333333335
+                "six_deep_duration": 58.6188,
+                "twenty_deep_duration": 212.52693333333335
             }
         },
         {
@@ -25,15 +25,15 @@
                 "tx1": "7ff44a1dcb54d24c693bed8a5b07f1d9903f6076dd27219f851b3e5b98cfa3ff",
                 "tx2": "4d716cf5355ee72973ca54cb4c3e27cfa178a29293b6de135d6da9f6c1b779d8",
                 "confirm_duration": 4,
-                "six_deep_duration": 73.75671666666668,
-                "twenty_deep_duration": 189.6657
+                "six_deep_duration": 77.75671666666668,
+                "twenty_deep_duration": 193.6657
             },
             "slowfee": {
                 "tx1": "8d798fbb911f2bdcaebc8dbd751beeb708a799fcfdfdc62d238159db5c937ff7",
                 "tx2": "6c8fe7741247a342adecb635aab6836beb0be6b02e691776ad3a4fb73dff3a7c",
                 "confirm_duration": 4,
-                "six_deep_duration": 73.75671666666668,
-                "twenty_deep_duration": 189.6657
+                "six_deep_duration": 77.75671666666668,
+                "twenty_deep_duration": 193.6657
             }
         },
         {
@@ -43,15 +43,15 @@
                 "tx1": "64923d71845b069224e3dc1dbc45a5b7d0a079e50eed2dc4adb78af123c56422",
                 "tx2": "8ce713959ec736e3dc2cbbd2630cefa8bb3bba5712bdffaaec9975b0b802c9dd",
                 "confirm_duration": 20,
-                "six_deep_duration": 88.35416666666667,
-                "twenty_deep_duration": 188.35748333333333
+                "six_deep_duration": 108.35416666666667,
+                "twenty_deep_duration": 208.35748333333333
             },
             "slowfee": {
                 "tx1": "b6a804bdc06ff2ab635b24d73effe8c70bf1b92659df0eaaf5eecefe5274238a",
                 "tx2": "64457b18f13c0b6baf9506b8bc416b39a533ba87dc1a1d81722bf22116afa833",
                 "confirm_duration": 32,
-                "six_deep_duration": 98.58558333333333,
-                "twenty_deep_duration": 191.65193333333335
+                "six_deep_duration": 130.58558333333332,
+                "twenty_deep_duration": 223.65193333333335
             }
         },
         {
@@ -79,15 +79,15 @@
                 "tx1": "10c0b3797bd201ee2e968202270e3941be1b546481e69db6dcccfabc6fa162c2",
                 "tx2": "63eb2e4e78e29353fbe048a67ce36cb782c7871c29a7e4610ce993956386c63a",
                 "confirm_duration": 11,
-                "six_deep_duration": 41.80395,
-                "twenty_deep_duration": 179.8448
+                "six_deep_duration": 52.80395,
+                "twenty_deep_duration": 190.8448
             },
             "slowfee": {
                 "tx1": "2f813147051bfab5b4b7af2c05386cad7bfb7b8712d0c2ef184184520f3a2f4d",
                 "tx2": "f74a7af1e4591a1a699f3365ceaaafdea54033fab8518e1df7eb93bc9311978b",
                 "confirm_duration": 14,
-                "six_deep_duration": 46.0141,
-                "twenty_deep_duration": 181.45589999999999
+                "six_deep_duration": 60.0141,
+                "twenty_deep_duration": 195.45589999999999
             }
         },
         {
@@ -97,15 +97,15 @@
                 "tx1": "0330b40402c18dbf5a084132e35248dc2fddb757284148670328b967b8310723",
                 "tx2": "1a57318dea4a001b50b92432ecc54c38e7245095b7f39cb1c2c29f8c4e0f7db5",
                 "confirm_duration": 18,
-                "six_deep_duration": 59.374916666666664,
-                "twenty_deep_duration": 196.93235
+                "six_deep_duration": 77.37491666666666,
+                "twenty_deep_duration": 214.93235
             },
             "slowfee": {
                 "tx1": "ed0981a1a951f861b92ea5c7a70ae5598eeb95bca01cbde6f88809aaaf560851",
                 "tx2": "04d37757c5b2fe7289443fbabe6ad512464e14467f967014188fd96b40196f4f",
                 "confirm_duration": 21,
-                "six_deep_duration": 63.89888333333333,
-                "twenty_deep_duration": 221.20923333333334
+                "six_deep_duration": 84.89888333333333,
+                "twenty_deep_duration": 242.20923333333334
             }
         },
         {
@@ -115,15 +115,15 @@
                 "tx1": "46a40f4636056270b5d52632451ff3b74b5570ae32e3ada612affb1ab8ff4074",
                 "tx2": "1af6ff000af8a0faa74b1cd0eeca291dfdd45788436e5845981b6a90deaf3994",
                 "confirm_duration": 14,
-                "six_deep_duration": 43.50071666666667,
-                "twenty_deep_duration": 185.15001666666666
+                "six_deep_duration": 57.50071666666667,
+                "twenty_deep_duration": 199.15001666666666
             },
             "slowfee": {
                 "tx1": "955b26e5737d075246f1fd5df2f7ef52a9c4a59e59130f97a52578478d397135",
                 "tx2": "5e66ab376b0b26cd1b62f25afcf5af1461e1f2d673c4d174fd00eb4d19570aaa",
                 "confirm_duration": 33,
-                "six_deep_duration": 58.744616666666666,
-                "twenty_deep_duration": 180.88896666666668
+                "six_deep_duration": 91.74461666666667,
+                "twenty_deep_duration": 213.88896666666668
             }
         },
         {
@@ -133,15 +133,15 @@
                 "tx1": "23e0d87ca91b4a285a1eb3ad2fd2e97ff88f5eb7a06be1fd25091424ddeae489",
                 "tx2": "cda130cf8a765f6586e9911d626e6f3d7a646f9c60f4f5208cf76efd4ee486bf",
                 "confirm_duration": 10,
-                "six_deep_duration": 71.47045,
-                "twenty_deep_duration": 192.2473
+                "six_deep_duration": 81.47045,
+                "twenty_deep_duration": 202.2473
             },
             "slowfee": {
                 "tx1": "4f51a56463b4850d5dd7a4175580676cc12195298770ecf9937eaa2e9bff1136",
                 "tx2": "dd0a54698c54ad2591384b1feec230d3cd449b7811357cc238c729c567398e27",
                 "confirm_duration": 10,
-                "six_deep_duration": 71.47045,
-                "twenty_deep_duration": 192.2473
+                "six_deep_duration": 81.47045,
+                "twenty_deep_duration": 202.2473
             }
         },
         {
@@ -151,15 +151,15 @@
                 "tx1": "ff0ff230008ec6b7140965ef5d83accca6822f5b168ee3b1655b57eefc6966ee",
                 "tx2": "50c7677c827443db98b3170d77c68853e25a13aa08fcbe10504942f4146a213a",
                 "confirm_duration": 21,
-                "six_deep_duration": 56.1721,
-                "twenty_deep_duration": 174.25136666666668
+                "six_deep_duration": 77.1721,
+                "twenty_deep_duration": 195.25136666666668
             },
             "slowfee": {
                 "tx1": "ff418bc8cb5eebee5c0e0495f6179ea9f71d66ed57f6cca2580a2a130efb17a5",
                 "tx2": "cd68c86d6fd3f9356dd50a60d44da46a15bdabd1f970c118d9ad7a7870e8fac8",
                 "confirm_duration": 77,
-                "six_deep_duration": 105.66873333333333,
-                "twenty_deep_duration": 264.62533333333334
+                "six_deep_duration": 102.66873333333333,
+                "twenty_deep_duration": 221.62533333333334
             }
         },
         {
@@ -176,8 +176,8 @@
                 "tx1": "46dab1bbcb77673f138dd9b93d7034ef8f83e9b49f6e27b72e96b46082411eab",
                 "tx2": "5060cc525d247b1440c44ea570f1be21f799ace38765b251ca142a2cb08f1b5f",
                 "confirm_duration": 17,
-                "six_deep_duration": 45.66873333333333,
-                "twenty_deep_duration": 204.62533333333334
+                "six_deep_duration": 62.66873333333333,
+                "twenty_deep_duration": 221.62533333333334
             }
         },
         {
@@ -187,15 +187,15 @@
                 "tx1": "66cb6b94b034d2d66617b2327dbbbba687eb5de75373ee76912da9a6244beef0",
                 "tx2": "5343bcc00b5b5858143265e2208bff1c94fad077f7293e722edd0a941ee39ba4",
                 "confirm_duration": 2,
-                "six_deep_duration": 66.88786666666667,
-                "twenty_deep_duration": 214.9381
+                "six_deep_duration": 68.88786666666667,
+                "twenty_deep_duration": 216.9381
             },
             "slowfee": {
                 "tx1": "8497ce22df4312ec6019b479f935cdc84581c4e7efe36c97b66a75206e931f72",
                 "tx2": "74fbf9c24d3c396dbf46daafcddaecffb1c6b9daed8a9256c39639da5d4a1794",
                 "confirm_duration": 36,
-                "six_deep_duration": 49.001216666666664,
-                "twenty_deep_duration": 207.16033333333334
+                "six_deep_duration": 85.00121666666666,
+                "twenty_deep_duration": 243.16033333333334
             }
         },
         {
@@ -205,15 +205,15 @@
                 "tx1": "0553cd5799a5f387699772a1ca33b726014ff0b5018f3f913fa0cd17db5ebca0",
                 "tx2": "611a401b0c5f0d743c390d54a7563e18ae666f75a761961ae40f25313264c23d",
                 "confirm_duration": 8,
-                "six_deep_duration": 51.95493333333333,
-                "twenty_deep_duration": 184.43103333333332
+                "six_deep_duration": 59.95493333333333,
+                "twenty_deep_duration": 192.43103333333332
             },
             "slowfee": {
                 "tx1": "8671b4ce90587e71b76f14697b767ae5d7c0d03439959803321dd5444a3edc0c",
                 "tx2": "73e95a5bcb4189de589606a6c79956f2d6c73f1154b768592681196e532c9017",
                 "confirm_duration": 8,
-                "six_deep_duration": 69.47538333333334,
-                "twenty_deep_duration": 196.4518833333333
+                "six_deep_duration": 77.47538333333334,
+                "twenty_deep_duration": 204.4518833333333
             }
         },
         {
@@ -223,15 +223,15 @@
                 "tx1": "33b621cc0ed00b9d30feeaa57154b5ba8fa59cfb8c9be1db73e4400132d5795e",
                 "tx2": "0875e1ec536501bd0543323a83c85b61bede57d8b74341b1f8bc4f64e2164346",
                 "confirm_duration": 41,
-                "six_deep_duration": 52.756099999999996,
-                "twenty_deep_duration": 189.29288333333335
+                "six_deep_duration": 93.7561,
+                "twenty_deep_duration": 230.29288333333335
             },
             "slowfee": {
                 "tx1": "33b621cc0ed00b9d30feeaa57154b5ba8fa59cfb8c9be1db73e4400132d5795e",
                 "tx2": "3232c4595cb1c59efe4efae926e52fbe5616c05067dd7d6514e18c4bdd06c633",
                 "confirm_duration": 41,
-                "six_deep_duration": 52.756099999999996,
-                "twenty_deep_duration": 207.96643333333336
+                "six_deep_duration": 93.7561,
+                "twenty_deep_duration": 240.96643333333336
             }
         },
         {
@@ -241,15 +241,15 @@
                 "tx1": "8dfb0c8fd304cbde936f1036b4c89fb8f88f5c9107b7a718bee1b759ffe97b05",
                 "tx2": "ea2b99e51a85ec31d83f29a7dcca8d9e42d9b4b5c1e9c7258a45776b9eebc4f3",
                 "confirm_duration": 32,
-                "six_deep_duration": 31.943666666666665,
-                "twenty_deep_duration": 198.22271666666666
+                "six_deep_duration": 63.943666666666665,
+                "twenty_deep_duration": 230.22271666666666
             },
             "slowfee": {
                 "tx1": "293f70fe8dacaf89fba99490aba2501a15e8e37bfa088a8aa21f5cb722a9da1f",
                 "tx2": "a8fb33886a9791d308c1a818b4a5ca4ba80bd971828e41432807c691a3c03500",
                 "confirm_duration": 33,
-                "six_deep_duration": 39.914366666666666,
-                "twenty_deep_duration": 207.96643333333336
+                "six_deep_duration": 72.91436666666667,
+                "twenty_deep_duration": 240.96643333333336
             }
         },
         {
@@ -259,15 +259,15 @@
                 "tx1": "4227ab3c7ad5f335eae6695fa5ddc773cc3174763d4fcefa6340973da18591df",
                 "tx2": "4bb32c03db76d00fd22b4faa45cc87ca779c152893f11565d647323dcc4a57d7",
                 "confirm_duration": 3,
-                "six_deep_duration": 49.55705,
-                "twenty_deep_duration": 227.7035
+                "six_deep_duration": 52.55705,
+                "twenty_deep_duration": 230.7035
             },
             "slowfee": {
                 "tx1": "e80b56b0098abeb3c2513129607007820e2e0d240e999b641526f00e22d27b97",
                 "tx2": "3937f8d0565718394cca194a9a141cdbb0bd5c369d24433efc869e8e2f7f6369",
                 "confirm_duration": 25,
-                "six_deep_duration": 69.0368,
-                "twenty_deep_duration": 213.9073
+                "six_deep_duration": 94.0368,
+                "twenty_deep_duration": 238.9073
             }
         },
         {
@@ -277,51 +277,51 @@
                 "tx1": "8e63ce16759d7ef3f9701d74c1e6a42a16279663c75835bc85d7d0be444795f2",
                 "tx2": "b62488377b0384105f667ba4ecb3c71d8345e9f2d52a060a55e94519f0126c03",
                 "confirm_duration": 7,
-                "six_deep_duration": 101.97125,
-                "twenty_deep_duration": 215.8970666666667
+                "six_deep_duration": 108.97125,
+                "twenty_deep_duration": 222.8970666666667
             },
             "slowfee": {
                 "tx1": "b4cc9e0603d62c6f79f2fd2a399b36693a137f4b4934b191ee896502649e067f",
                 "tx2": "45240feabc78dd4043f01327f7486b7822531464a3414e0d3ad4884b9ba90fb8",
                 "confirm_duration": 7,
-                "six_deep_duration": 101.97125,
-                "twenty_deep_duration": 215.8970666666667
+                "six_deep_duration": 108.97125,
+                "twenty_deep_duration": 222.8970666666667
             }
         },
-        {???
+        {
             "index": 31,
             "time": 8,
             "fastfee": {
                 "tx1": "4e9b5f0409722e7a7d90580f858f4567bc04111ab9a32b50dfec3f0c139b07e1",
                 "tx2": "af1dc2f876c667a9d6a49bc74923546e21663397c15605457b324d43959e69d0",
                 "confirm_duration": 17,
-                "six_deep_duration": 67.3919,
-                "twenty_deep_duration": 187.84775
+                "six_deep_duration": 84.3919,
+                "twenty_deep_duration": 204.84775
             },
             "slowfee": {
                 "tx1": "02f99baeb37ba26fffa5d34481e1493008206507b00217cb7c911e66d3572520",
                 "tx2": "85e47a143c2d77ec4479b0f414fe0df98ff0e2e0fa21b1a3d642152b9ddcdcb4",
                 "confirm_duration": 49,
-                "six_deep_duration": 48.92346666666666,
-                "twenty_deep_duration": 177.6980333333333
+                "six_deep_duration": 97.92346666666666,
+                "twenty_deep_duration": 226.6980333333333
             }
         },
-        {???
+        {
             "index": 32,
             "time": 9,
             "fastfee": {
                 "tx1": "876d9a0f5c0975c40b33be9fb014e5cc074a6026b013abb4d09903d87f3e7a89",
                 "tx2": "626848afc8c2339229341618bd38cf96a89535eb758f32de05c4644b23ef23ab",
                 "confirm_duration": 1,
-                "six_deep_duration": 56.71783333333334,
-                "twenty_deep_duration": 173.24938333333333
+                "six_deep_duration": 115.71783333333335,
+                "twenty_deep_duration": 172.24938333333333
             },
             "slowfee": {
                 "tx1": "6501ca5519a1f2518994539fc10b54d7b6cd132e34f5f32130da54a4774323fb",
                 "tx2": "ff1efc2f8d4604f79afa20dc0518b6a5564828e5b3dd32cd26d8b73d7ee9b521",
                 "confirm_duration": 22,
-                "six_deep_duration": 36.62396666666667,
-                "twenty_deep_duration": 155.00596666666667
+                "six_deep_duration": 58.62396666666667,
+                "twenty_deep_duration": 177.00596666666667
             }
         },
         {
@@ -331,15 +331,15 @@
                 "tx1": "08dcf844be57fb0b283cafd4e758588b96dfb45f6b08506b5b3cda0aca7926db",
                 "tx2": "facf85544e0cbad27439fb7b4b0b64e7f7d8784a817410882a541a53daa140b4",
                 "confirm_duration": 6,
-                "six_deep_duration": 55.51238333333333,
-                "twenty_deep_duration": 143.89213333333333
+                "six_deep_duration": 61.51238333333333,
+                "twenty_deep_duration": 149.89213333333333
             },
             "slowfee": {
                 "tx1": "b159ba80ca48dc5066e3545d35402b727bc617190cac12f08dada65b84571125",
                 "tx2": "d9c9df874e0608686826f225fad7b3350edbf2acb6ea774589f3062803726cd1",
                 "confirm_duration": 6,
-                "six_deep_duration": 55.51238333333333,
-                "twenty_deep_duration": 143.89213333333333
+                "six_deep_duration": 61.51238333333333,
+                "twenty_deep_duration": 149.89213333333333
             }
         },
         {
@@ -349,15 +349,15 @@
                 "tx1": "4f34df8225822691b1ba705cfd7fa8dc967b2e2bdfb0eb6a7af03310ca392ad3",
                 "tx2": "56040cfefce459e8671fd71d02d50dd2805dc10bc33399bb59fb88598d4fb0a9",
                 "confirm_duration": 14,
-                "six_deep_duration": 42.67263333333334,
-                "twenty_deep_duration": 130.12773333333334
+                "six_deep_duration": 56.67263333333334,
+                "twenty_deep_duration": 144.12773333333334
             },
             "slowfee": {
                 "tx1": "c217eee0c87b3ba4a11575b54d842317e0984c309d5eea0aaf952aa0a8f019b7",
                 "tx2": "5c0a97b97c417bf7fbd4a83dd58e1cd9d0a3181b4624c1806e69df0bbe859970",
                 "confirm_duration": 14,
-                "six_deep_duration": 42.67263333333334,
-                "twenty_deep_duration": 130.12773333333334
+                "six_deep_duration": 56.67263333333334,
+                "twenty_deep_duration": 144.12773333333334
             }
         },
         {
@@ -367,15 +367,15 @@
                 "tx1": "a3f948df614cb0fb15d5a786a2456f2f5c184279984282c4e26c67252bbdcf84",
                 "tx2": "169faaf1a11e8de4eaab132cdf0ad8fb0cae3a68ab32b1e921e8aee43031fd9a",
                 "confirm_duration": 6,
-                "six_deep_duration": 30.5617,
-                "twenty_deep_duration": 138.86599999999999
+                "six_deep_duration": 36.5617,
+                "twenty_deep_duration": 144.86599999999999
             },
             "slowfee": {
                 "tx1": "d07e0bd30bad18b27e217844f46ad85d751ef9690281b0b314478802267ebdd8",
                 "tx2": "7eb7243229f8410217ed5e40540d3ac98a3c1138158a087b079b3ae00d24f43a",
                 "confirm_duration": 6,
-                "six_deep_duration": 30.5617,
-                "twenty_deep_duration": 138.86599999999999
+                "six_deep_duration": 36.5617,
+                "twenty_deep_duration": 144.86599999999999
             }
         },
         {
@@ -385,15 +385,39 @@
                 "tx1": "e6abadfb56fdc8bcb24c49581b0972ae0c1499626f5b1323a7478cdeff1a4aa3",
                 "tx2": "4d6df8006e9c3564b3fac2de114a5be188d4da9a76b4cb835a57c5030b3cdb8d",
                 "confirm_duration": 8,
-                "six_deep_duration": 52.060833333333335,
-                "twenty_deep_duration": 171.69253333333333
+                "six_deep_duration": 60.060833333333335,
+                "twenty_deep_duration": 178.06928333333332
             },
             "slowfee": {
                 "tx1": "6636fc8f4d86c81b811a56a86e7e027cce10ced63e5f5f9c93bdc1aabdef8b9c",
                 "tx2": "f3f989a3bae8624d447a0e49276ea01aef3d8d89e928959bd6f3c76b6c80d9ba",
                 "confirm_duration": 8,
-                "six_deep_duration": 52.060833333333335,
-                "twenty_deep_duration": 170.06928333333332
+                "six_deep_duration": 60.060833333333335,
+                "twenty_deep_duration": 178.06928333333332
+            }
+        },
+        {
+            "index": 37,
+            "time": 14,
+                "fastfee": {
+                "tx1": "7289af32173eb32c9dafcfff8435a06293beca9824741312eb82cfbdf074d62f",
+                "tx2": "0cc18194dd0d1469a7770cfa19b3f9e489cea7bd0b7ffc7d915c5498782c8f87"
+            },
+            "slowfee": {
+                "tx1": "fad441caf7fccfb02f665a2fd98f2177187a6f4dbbad5e584d7c4ca3b87177ba",
+                "tx2": "79f34f26434c7f8ebdd8ffbf387c6086da741230ade72d3bd87e4a5a60ddd028"
+            }
+        },
+        {
+            "index": 38,
+            "time": 15,
+            "fastfee": {
+                "tx1": "9c5a8194daf1a53a0fda5bd4dc99aaf254f1e388f0a46a13bec716a8a86cfbeb",
+                "tx2": "f83be1f90f779e1cadbfe01414e2d8e3a852c4f917b766bf89575aa91ea3a788"
+            },
+            "slowfee": {
+                "tx1": "d516294c2149ac6e72fccd404c31b0c0a369718c05aba155751cbf11024c2349",
+                "tx2": "450a8d668e8d6b43628187a51c7179c5d7701a2c9298074617af8cb9d5320600"
             }
         }
     ]
