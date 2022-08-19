@@ -124,7 +124,7 @@
             "index": 25,
             "time": 2,
             "fastfee": {
-                "tx1": "66cb6b94b034d2d66617b2327dbbbba687eb5de75373ee76912da9a6244beef04",
+                "tx1": "66cb6b94b034d2d66617b2327dbbbba687eb5de75373ee76912da9a6244beef0",
                 "tx2": "5343bcc00b5b5858143265e2208bff1c94fad077f7293e722edd0a941ee39ba4"
             },
             "slowfee": {

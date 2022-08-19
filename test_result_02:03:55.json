@@ -219,6 +219,17 @@
                 "tx1": "28e7d3ed2270c01cdc853391ac33a8e20ad3d33cb85529fc519b4a33d27f7160",
                 "tx2": "1a777a5b1cea128f84fffa5c29ec3fcf98f0186925f420884dfe3ed4145eb0f5"
             }
+        },
+        {
+            "index": 21,
+            "fastfee": {
+                "tx1": "3c1f434a1476149f19fddcb09b65b254093aa3d121893fda2c714808cd28d94b",
+                "tx2": "10c1a1e78a5f95d91cc31097e23750970ee0de01a10d82e5b77b737d896e21c3"
+            },
+            "slowfee": {
+                "tx1": "7b316eb64fba8534edea38d61c22a6d421e63ae99ee46ec72f6733162413221d",
+                "tx2": "22fd1b694e8531c7922910c8b49f02781c180d61ad7cfd59f7806f2ec775b2a9"
+            }
         }
     ]
 }
