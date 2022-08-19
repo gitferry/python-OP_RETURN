@@ -1,18 +1,8 @@
 {
     "checkpoints": [
         {
-            "index": 1,
-            "fastfee": {
-                "tx1": "52f4e8c68b7846db454362b4460f11c242e082ad7afbc0b61361404883c0781c",
-                "tx2": "adaafcdc7951bce5dadeffb74226c7310dd41f0596da6920dabe7f7c841b9797"
-            },
-            "slowfee": {
-                "tx1": "2571ed0687d1619f2cdd2c790e8de6c9d8cf8c54be751498d27ed9e07c001e97",
-                "tx2": "b9b19b754ed3c0d016a6a3624894471cf07c9643c8a6248f99a40aa84491c2d4"
-            }
-        },
-        {
             "index": 2,
+            "time": 16,
             "fastfee": {
                 "tx1": "68fe2d1668f91586a357732acc345b3a6655351dcf2e56c9837da8c979fcb111",
                 "tx2": "9445dc89dd728924d4eba102b010dae149fd5b54e49c78b6d7290e424e45d7d8"
@@ -23,29 +13,8 @@
             }
         },
         {
-            "index": 3,
-            "fastfee": {
-                "tx1": "d4cf251baba63f906bd571d44857b3ab1a5a006247609279f49e8b77c3f1c3cb",
-                "tx2": "e505c094dc6a135d7f09cc5f0d79884bd48710f4411fe0d988cf7db91fe0a1a0"
-            },
-            "slowfee": {
-                "tx1": "7dc0d8b1251d5387cdd07c6b061fb1e74916031308c80df57065333d55d00b2d",
-                "tx2": "3c36ae8384468f692b7ca49b18d8570f46e4087ad89c19daa6dc582ac1608179"
-            }
-        },
-        {
-            "index": 4,
-            "fastfee": {
-                "tx1": "2f464b248935da00072f43d6b35940ded0a102304b5dabba0c6bd734053f3263",
-                "tx2": "32ab7cd8034637e5c4bd55488ca9de8f63e3fdcbcd1572aa167c1ad0da8c7ef2"
-            },
-            "slowfee": {
-                "tx1": "ff793204bad21643611cb10cc0e746480417aa0d250c3378bc04dd41aa3da7d2",
-                "tx2": "2883f29fdaa9a1963b994d9e09487e99aea620a9b3a1bd7b05c59e413787d098"
-            }
-        },
-        {
             "index": 5,
+            "time": 17,
             "fastfee": {
                 "tx1": "7ff44a1dcb54d24c693bed8a5b07f1d9903f6076dd27219f851b3e5b98cfa3ff",
                 "tx2": "4d716cf5355ee72973ca54cb4c3e27cfa178a29293b6de135d6da9f6c1b779d8"
@@ -57,6 +26,7 @@
         },
         {
             "index": 6,
+            "time": 18,
             "fastfee": {
                 "tx1": "64923d71845b069224e3dc1dbc45a5b7d0a079e50eed2dc4adb78af123c56422",
                 "tx2": "8ce713959ec736e3dc2cbbd2630cefa8bb3bba5712bdffaaec9975b0b802c9dd"
@@ -67,18 +37,8 @@
             }
         },
         {
-            "index": 7,
-            "fastfee": {
-                "tx1": "6130d9fabe3e10913ae41826e10dc9979d9d2e324a6a74a94083b01dd2461ab6",
-                "tx2": "840d93ba52b207f378d071c867bae71caecb26cf790be7476a812981b252f885"
-            },
-            "slowfee": {
-                "tx1": "aa2b2e5134bffe1eec6683d7e708741e01ff6ce7b8358fcdf07c0f7ee060b507",
-                "tx2": "9408b371d121d36d0a4d2884bc852ac0eb6a8aaa46a6b8dad680490ff49e4f6f"
-            }
-        },
-        {
             "index": 8,
+            "time": 19,
             "fastfee": {
                 "tx1": "d9106ab8da90ac77ae49dc70a09e75d6e13c92d079c3c3759b9065a9b84262e6",
                 "tx2": "e20970355e0774484179b5837872b13bb48f25fbdf73ebfc5bc388c91dd40a48"
@@ -89,18 +49,8 @@
             }
         },
         {
-            "index": 9,
-            "fastfee": {
-                "tx1": "f5829546365160e7c870f49a86764417310c481a3f60b54f6e0259f9314a5aee",
-                "tx2": "7f916fccb88032a9087ec25b5e666fbd703654c0a2a4e793ba6dbef088be9250"
-            },
-            "slowfee": {
-                "tx1": "15c210dc9678added65de591b4ed19c1e6cf0a0b663fb5270ddfdc3e91750358",
-                "tx2": "e20970355e0774484179b5837872b13bb48f25fbdf73ebfc5bc388c91dd40a48"
-            }
-        },
-        {
             "index": 10,
+            "time": 20,
             "fastfee": {
                 "tx1": "10c0b3797bd201ee2e968202270e3941be1b546481e69db6dcccfabc6fa162c2",
                 "tx2": "63eb2e4e78e29353fbe048a67ce36cb782c7871c29a7e4610ce993956386c63a"
@@ -111,29 +61,8 @@
             }
         },
         {
-            "index": 11,
-            "fastfee": {
-                "tx1": "75f87228b12469d1d678705a4e7248987adb5f0a204596fa5adb3df99d3d39ea",
-                "tx2": "68096ff6d96e6f224217820b9c66009ed24b9d3c87917c4e4322fe7c04b8ae74"
-            },
-            "slowfee": {
-                "tx1": "0f00877a5e804983dcbc6ac0bada6f39abd2dacd445658631b32db5f0c57c288",
-                "tx2": "9767d4d3386020f649ad8682c549c5df9b41e285781e04a01dcd94d270a76b16"
-            }
-        },
-        {
-            "index": 12,
-            "fastfee": {
-                "tx1": "0e48e138bb3b9f5bd8570a594dada12f7d0f9f73dfd1b821f9c9ce46c0bde5a6",
-                "tx2": "fd681f6f0e110e6d0a4b92b8cdf8b1cf43d8f0e8e8ac7fda7abbc66902b76481"
-            },
-            "slowfee": {
-                "tx1": "c1391fe125899101af7f7251c3d448fdf54f2c311cce167179dfffa04e4ce0d2",
-                "tx2": "aec2a072f59f0aadfc502a096466c8a0c310d498c743e5a3a11cc272ba319609"
-            }
-        },
-        {
             "index": 13,
+            "time": 21,
             "fastfee": {
                 "tx1": "0330b40402c18dbf5a084132e35248dc2fddb757284148670328b967b8310723",
                 "tx2": "1a57318dea4a001b50b92432ecc54c38e7245095b7f39cb1c2c29f8c4e0f7db5"
@@ -144,18 +73,8 @@
             }
         },
         {
-            "index": 14,
-            "fastfee": {
-                "tx1": "edb9b3eb54b91629d6f6c6209b7d70afc13e8d6e9092223b8f10d1e52fa01902",
-                "tx2": "9cc5d14c20ea36ce3e927531bc9ba381cee0f686c9d29a2a4d577aa0685d3be5"
-            },
-            "slowfee": {
-                "tx1": "18c4670fa66b44d1376650779418acc4b74a819665aca693ed49b98fb611cf95",
-                "tx2": "e1db490d485edec28f764efea13ec16206006eec9401ee44109c4ef3f62cc8d7"
-            }
-        },
-        {
             "index": 15,
+            "time": 22,
             "fastfee": {
                 "tx1": "46a40f4636056270b5d52632451ff3b74b5570ae32e3ada612affb1ab8ff4074",
                 "tx2": "1af6ff000af8a0faa74b1cd0eeca291dfdd45788436e5845981b6a90deaf3994"
@@ -166,29 +85,8 @@
             }
         },
         {
-            "index": 16,
-            "fastfee": {
-                "tx1": "ebdc9c864e1559b889dafa29d677256c2aaf233a2cc6619f372740d8e45018d6",
-                "tx2": "89a98372fa66581f89c2227317bbe3bc1484f7ed52e7898c754ad02e3a1f04b7"
-            },
-            "slowfee": {
-                "tx1": "49e99a484176f7f033f9880d8d939050ef0dbbc3ba90cf1fc05262825226d33a",
-                "tx2": "91ecc21efd4c841f98d84b0d20d9adb2a85eba79bbc6114effc067ce638719b0"
-            }
-        },
-        {
-            "index": 17,
-            "fastfee": {
-                "tx1": "d052810d665b4b97ec7473c4c6cb3339b290f8d5b27be0a6546ec3ca74d93be2",
-                "tx2": "2e3d1d52785a6d93f9f7419b4d5095519137a75a7242bc0e6087dc7c963bd434"
-            },
-            "slowfee": {
-                "tx1": "074dd1541046b25c7b05a5b1eb5f68ec92689f0a10b0237f9c146142cac71974",
-                "tx2": "dc01ac0c52c7a625a8562bc7a21478c0a1f85d01663a50e60f72f9ecdd9e411a"
-            }
-        },
-        {
             "index": 18,
+            "time": 23,
             "fastfee": {
                 "tx1": "23e0d87ca91b4a285a1eb3ad2fd2e97ff88f5eb7a06be1fd25091424ddeae489",
                 "tx2": "cda130cf8a765f6586e9911d626e6f3d7a646f9c60f4f5208cf76efd4ee486bf"
@@ -199,40 +97,8 @@
             }
         },
         {
-            "index": 19,
-            "fastfee": {
-                "tx1": "e519cf833a15997cf90a2cd505e9f08d511ab7c3c2680e5770a2d85bb6a6fda8",
-                "tx2": "ebdc0b8a9b9e9c335b2e12b4c54aea586b514a7edd7526201c6b9cce92d69b2a"
-            },
-            "slowfee": {
-                "tx1": "9fbd5e62291cc0ddc035f85ae64700a3fe74f2aacf5ae9ba34e020338e4235be",
-                "tx2": "23b66d21c20368301f0b19b4ecbe4b8c3cc22d08bd93e6f2b08d8fc580bd2dba"
-            }
-        },
-        {
-            "index": 20,
-            "fastfee": {
-                "tx1": "11885e60a04226a709fabb0927273e741ba0e0647522abb326b97ca05f9ad1c6",
-                "tx2": "85f721cdf8d5629976bd903b3313246a930e4763a9e91806187fadf9802bae1c"
-            },
-            "slowfee": {
-                "tx1": "75190b9cd6450818580441431ff6119446558c9fa88e65e870195c9a0505d165",
-                "tx2": "ba859cf54259d933378e60e115dc59afca0754bff18a2f73e934e1ac6688b578"
-            }
-        },
-        {
-            "index": 21,
-            "fastfee": {
-                "tx1": "975ff6f0c0ddeca48bc4097d818035b79e5a4b9c62ef520e6cf07356321c6257",
-                "tx2": "6abdfae6b66407e08dd7feac16677c0109cfcf0811df3164d670dc6126faa7b6"
-            },
-            "slowfee": {
-                "tx1": "8fab0a2e2048d380f6b210c3ef8e6c88194a9848b9910ada09eac2bf4663e753",
-                "tx2": "6f7e873e906b13db1284d02ca1c1032983b2fec28a818dd1d368f4fa242842ef"
-            }
-        },
-        {
             "index": 22,
+            "time": 24,
             "fastfee": {
                 "tx1": "ff0ff230008ec6b7140965ef5d83accca6822f5b168ee3b1655b57eefc6966ee",
                 "tx2": "50c7677c827443db98b3170d77c68853e25a13aa08fcbe10504942f4146a213a"
@@ -244,6 +110,7 @@
         },
         {
             "index": 23,
+            "time": 1,
             "fastfee": {
                 "tx1": "54d0fc1bb3a3f75cc543d5957d99246f439403da28600325863a68d048a4fa9b",
                 "tx2": "982e8d27a0261a08725d1eecad2b51f1ba62037448fd6c9053c2d2a0e5cabc73"
@@ -254,19 +121,8 @@
             }
         },
         {
-            "index": 24,
-            "fastfee": {
-                "tx1": "d594127a3320ec1ec12cadb3a38d74fc7540459af21849355e9335880b7ecf8d",
-                "tx2": "9ec3babd43dbe63f457f1a1a262af6dbf8a81d6ac030edc4cd963b65c503c9c5"
-            },
-            "slowfee": {
-                "tx1": "46dab1bbcb77673f138dd9b93d7034ef8f83e9b49f6e27b72e96b46082411eab",
-                "tx2": "5060cc525d247b1440c44ea570f1be21f799ace38765b251ca142a2cb08f1b5f"
-            }
-        },
-        {
-            "hour": 11,
             "index": 25,
+            "time": 2,
             "fastfee": {
                 "tx1": "66cb6b94b034d2d66617b2327dbbbba687eb5de75373ee76912da9a6244beef04",
                 "tx2": "5343bcc00b5b5858143265e2208bff1c94fad077f7293e722edd0a941ee39ba4"
@@ -278,6 +134,7 @@
         },
         {
             "index": 26,
+            "time": 3,
             "fastfee": {
                 "tx1": "0553cd5799a5f387699772a1ca33b726014ff0b5018f3f913fa0cd17db5ebca0",
                 "tx2": "611a401b0c5f0d743c390d54a7563e18ae666f75a761961ae40f25313264c23d"
@@ -289,6 +146,7 @@
         },
         {
             "index": 27,
+            "time": 4,
             "fastfee": {
                 "tx1": "33b621cc0ed00b9d30feeaa57154b5ba8fa59cfb8c9be1db73e4400132d5795e",
                 "tx2": "0875e1ec536501bd0543323a83c85b61bede57d8b74341b1f8bc4f64e2164346"
@@ -300,6 +158,7 @@
         },
         {
             "index": 28,
+            "time": 5,
             "fastfee": {
                 "tx1": "8dfb0c8fd304cbde936f1036b4c89fb8f88f5c9107b7a718bee1b759ffe97b05",
                 "tx2": "ea2b99e51a85ec31d83f29a7dcca8d9e42d9b4b5c1e9c7258a45776b9eebc4f3"
@@ -311,6 +170,7 @@
         },
         {
             "index": 29,
+            "time": 6,
             "fastfee": {
                 "tx1": "4227ab3c7ad5f335eae6695fa5ddc773cc3174763d4fcefa6340973da18591df",
                 "tx2": "4bb32c03db76d00fd22b4faa45cc87ca779c152893f11565d647323dcc4a57d7"
@@ -322,6 +182,7 @@
         },
         {
             "index": 30,
+            "time": 7,
             "fastfee": {
                 "tx1": "8e63ce16759d7ef3f9701d74c1e6a42a16279663c75835bc85d7d0be444795f2",
                 "tx2": "b62488377b0384105f667ba4ecb3c71d8345e9f2d52a060a55e94519f0126c03"
@@ -333,6 +194,7 @@
         },
         {
             "index": 31,
+            "time": 8,
             "fastfee": {
                 "tx1": "4e9b5f0409722e7a7d90580f858f4567bc04111ab9a32b50dfec3f0c139b07e1",
                 "tx2": "af1dc2f876c667a9d6a49bc74923546e21663397c15605457b324d43959e69d0"
@@ -344,6 +206,7 @@
         },
         {
             "index": 32,
+            "time": 9,
             "fastfee": {
                 "tx1": "876d9a0f5c0975c40b33be9fb014e5cc074a6026b013abb4d09903d87f3e7a89",
                 "tx2": "626848afc8c2339229341618bd38cf96a89535eb758f32de05c4644b23ef23ab"
@@ -351,6 +214,18 @@
             "slowfee": {
                 "tx1": "6501ca5519a1f2518994539fc10b54d7b6cd132e34f5f32130da54a4774323fb",
                 "tx2": "ff1efc2f8d4604f79afa20dc0518b6a5564828e5b3dd32cd26d8b73d7ee9b521"
+            }
+        },
+        {
+            "index": 33,
+            "time": 10,
+            "fastfee": {
+                "tx1": "08dcf844be57fb0b283cafd4e758588b96dfb45f6b08506b5b3cda0aca7926db",
+                "tx2": "facf85544e0cbad27439fb7b4b0b64e7f7d8784a817410882a541a53daa140b4"
+            },
+            "slowfee": {
+                "tx1": "b159ba80ca48dc5066e3545d35402b727bc617190cac12f08dada65b84571125",
+                "tx2": "d9c9df874e0608686826f225fad7b3350edbf2acb6ea774589f3062803726cd1"
             }
         }
     ]
