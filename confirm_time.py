@@ -13,7 +13,7 @@ def main():
     with open(txid_file, "r+") as txidFile:
         txid_json = json.load(txidFile)
         checkpoints=txid_json['checkpoints']
-        n = 15
+        n = 17
         for i in range(n):
             fastfee=checkpoints[i]['fastfee']
             fasttx1=fastfee['tx1']

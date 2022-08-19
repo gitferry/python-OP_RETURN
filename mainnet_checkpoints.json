@@ -227,6 +227,54 @@
                 "tx1": "b159ba80ca48dc5066e3545d35402b727bc617190cac12f08dada65b84571125",
                 "tx2": "d9c9df874e0608686826f225fad7b3350edbf2acb6ea774589f3062803726cd1"
             }
+        },
+        {
+            "index": 34,
+            "time": 11,
+            "fastfee": {
+                "tx1": "4f34df8225822691b1ba705cfd7fa8dc967b2e2bdfb0eb6a7af03310ca392ad3",
+                "tx2": "56040cfefce459e8671fd71d02d50dd2805dc10bc33399bb59fb88598d4fb0a9"
+            },
+            "slowfee": {
+                "tx1": "c217eee0c87b3ba4a11575b54d842317e0984c309d5eea0aaf952aa0a8f019b7",
+                "tx2": "5c0a97b97c417bf7fbd4a83dd58e1cd9d0a3181b4624c1806e69df0bbe859970"
+            }
+        },
+        {
+            "index": 35,
+            "time": 12,
+            "fastfee": {
+                "tx1": "a3f948df614cb0fb15d5a786a2456f2f5c184279984282c4e26c67252bbdcf84",
+                "tx2": "169faaf1a11e8de4eaab132cdf0ad8fb0cae3a68ab32b1e921e8aee43031fd9a"
+            },
+            "slowfee": {
+                "tx1": "d07e0bd30bad18b27e217844f46ad85d751ef9690281b0b314478802267ebdd8",
+                "tx2": "7eb7243229f8410217ed5e40540d3ac98a3c1138158a087b079b3ae00d24f43a"
+            }
+        },
+        {
+            "index": 36,
+            "time": 13,
+            "fastfee": {
+                "tx1": "e6abadfb56fdc8bcb24c49581b0972ae0c1499626f5b1323a7478cdeff1a4aa3",
+                "tx2": "4d6df8006e9c3564b3fac2de114a5be188d4da9a76b4cb835a57c5030b3cdb8d"
+            },
+            "slowfee": {
+                "tx1": "6636fc8f4d86c81b811a56a86e7e027cce10ced63e5f5f9c93bdc1aabdef8b9c",
+                "tx2": "f3f989a3bae8624d447a0e49276ea01aef3d8d89e928959bd6f3c76b6c80d9ba"
+            }
+        },
+        {
+            "index": 37,
+            "time": 14,
+            "fastfee": {
+                "tx1": "7289af32173eb32c9dafcfff8435a06293beca9824741312eb82cfbdf074d62f",
+                "tx2": "0cc18194dd0d1469a7770cfa19b3f9e489cea7bd0b7ffc7d915c5498782c8f87"
+            },
+            "slowfee": {
+                "tx1": "fad441caf7fccfb02f665a2fd98f2177187a6f4dbbad5e584d7c4ca3b87177ba",
+                "tx2": "79f34f26434c7f8ebdd8ffbf387c6086da741230ade72d3bd87e4a5a60ddd028"
+            }
         }
     ]
 }
