@@ -5,5 +5,5 @@ op1_len=70
 op2_len=58
 fastfee=0.000023
 slowfee=0.0000059
-exp_n=43
-interval=1000
+exp_n=10
+interval=10

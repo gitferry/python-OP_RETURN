@@ -26,7 +26,8 @@
 import sys, string, os, json, configparser, random
 from typing import Dict
 from OP_RETURN import *
-from datetime import datetime
+from datetime import datetime, timezone, date
+from json import JSONEncoder
 
 NETWORK = 'test'
 testnet=False
@@ -100,8 +101,10 @@ def printAndRecordRes(filename, index, fasttx1, fasttx2, slowtx1, slowtx2):
 
 	with open(filename, "r+") as resFile:
 		result = json.load(resFile)
+		ts = datetime.now()
+		ts = ts.replace(tzinfo=timezone.utc)
 		new_ckpt = {
-			'index': index,
+			'time': ts,
 			'fastfee': {
 				'tx1': fasttx1,
 				'tx2': fasttx2,
@@ -113,7 +116,7 @@ def printAndRecordRes(filename, index, fasttx1, fasttx2, slowtx1, slowtx2):
 		}
 		result['checkpoints'].append(new_ckpt)
 		resFile.seek(0)
-		json.dump(result, resFile, indent=4)
+		json.dump(result, resFile, indent=4, cls=DateTimeEncoder)
 		resFile.close()
 
 def printRes(res):
@@ -125,6 +128,13 @@ def get_random_string(length):
 	letters = string.ascii_lowercase
 	result_str = ''.join(random.choice(letters) for i in range(length))
 	return result_str
+
+# subclass JSONEncoder
+class DateTimeEncoder(JSONEncoder):
+        #Override the default method
+        def default(self, obj):
+            if isinstance(obj, (datetime, date)):
+                return obj.isoformat()
 
 if __name__ == "__main__":
 	main()
