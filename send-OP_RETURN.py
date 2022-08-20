@@ -29,6 +29,7 @@ from OP_RETURN import *
 from datetime import datetime
 
 NETWORK = 'test'
+testnet=False
 
 def main():
 	configParser = configparser.RawConfigParser()  
@@ -46,11 +47,6 @@ def main():
 	interval = configParser[NETWORK]['interval']
 	exp_n = configParser[NETWORK]['exp_n']
 
-	if NETWORK == 'test':
-		testnet=True
-	else:
-		testnet=False
-	
 	filename = newResultFile()
 
 	for i in range(int(exp_n)):

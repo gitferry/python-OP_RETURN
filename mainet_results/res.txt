@@ -1,0 +1,14 @@
+High fee:
+Mean of confirmation time: 12.208333333333334 
+Standard Deviation of confirmation time: 9.690780767516 
+Mean of 6 deap time: 69.71556597222222 
+Standard Deviation of 6 deep time: 20.662449268424812 
+Mean of 20 deap time: 192.74083055555556 
+Standard Deviation of 20 deep time: 26.081040997478258 
+Low fee:
+Mean of confirmation time: 22.958333333333332 
+Standard Deviation of confirmation time: 17.11464962784976 
+Mean of 6 deap time: 76.99294513888889 
+Standard Deviation of 6 deep time: 21.150112461150435 
+Mean of 20 deap time: 204.06715625 
+Standard Deviation of 20 deep time: 31.231208507145272 
