@@ -6,7 +6,7 @@ from blockcypher import get_block_overview
 import statistics
 
 def main():
-    measurement_file = "measurements.json"
+    measurement_file = "mainnet_measurements.json"
     fastConfirm=[]
     fastSixDeep=[]
     fastTwentyDeep=[]

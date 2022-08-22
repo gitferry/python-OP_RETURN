@@ -6,12 +6,12 @@ from blockcypher import get_block_overview
 import iso8601
 
 def main():
-    txid_file = "mainnet_result.json"
+    txid_file = "mainnet_txs.json"
     measurement_file = "mainnet_measurements.json"
     with open(txid_file, "r+") as txidFile:
         txid_json = json.load(txidFile)
         checkpoints=txid_json['checkpoints']
-        n = 17
+        n = 24
         for i in range(n):
             sendingTime=iso8601.parse_date(checkpoints[i]['time'])
             fastfee=checkpoints[i]['fastfee']
